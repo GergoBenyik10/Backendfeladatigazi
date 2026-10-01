@@ -1,0 +1,65 @@
+[
+	[
+	  {
+		"id": "1",
+		"nev": "9c",
+		"szak": "info",
+		"evfolyam": "9"
+	  },
+	  {
+		"id": "2",
+		"nev": "10c",
+		"szak": "info",
+		"evfolyam": "10"
+	  },
+	  {
+		"id": "3",
+		"nev": "11c",
+		"szak": "info",
+		"evfolyam": "11"
+	  },
+	  {
+		"id": "4",
+		"nev": "12c",
+		"szak": "info",
+		"evfolyam": "12"
+	  },
+	  {
+		"id": "5",
+		"nev": "13c",
+		"szak": "info",
+		"evfolyam": "13"
+	  }
+	],[
+	  {
+		"id": ",1,",
+		"nev": "diak1,",
+		"email": ",{email},",
+		"osztaly_id": ",{number},"
+	  },
+	  {
+		"id": ",2,",
+		"nev": "diak2,",
+		"email": ",{email},",
+		"osztaly_id": ",{number},"
+	  },
+	  {
+		"id": ",3,",
+		"nev": "diak3,",
+		"email": ",{email},",
+		"osztaly_id": ",{number},"
+	  },
+	  {
+		"id": ",4,",
+		"nev": "diak4,",
+		"email": ",{email},",
+		"osztaly_id": ",{number},"
+	  },
+	  {
+		"id": ",5,",
+		"nev": "diak5,",
+		"email": ",{email},",
+		"osztaly_id": ",{number},"
+	  }
+	]
+]
