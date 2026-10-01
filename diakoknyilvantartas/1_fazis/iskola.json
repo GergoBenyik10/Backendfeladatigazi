@@ -32,34 +32,34 @@
 	  }
 	],[
 	  {
-		"id": ",1,",
-		"nev": "diak1,",
-		"email": ",{email},",
-		"osztaly_id": ",{number},"
+		"id": "1",
+		"nev": "diak1",
+		"email": "email",
+		"osztaly_id": "1"
 	  },
 	  {
-		"id": ",2,",
-		"nev": "diak2,",
-		"email": ",{email},",
-		"osztaly_id": ",{number},"
+		"id": "2",
+		"nev": "diak2",
+		"email": "email",
+		"osztaly_id": "2"
 	  },
 	  {
-		"id": ",3,",
+		"id": "3",
 		"nev": "diak3,",
-		"email": ",{email},",
-		"osztaly_id": ",{number},"
+		"email": "email",
+		"osztaly_id": "3"
 	  },
 	  {
-		"id": ",4,",
-		"nev": "diak4,",
-		"email": ",{email},",
-		"osztaly_id": ",{number},"
+		"id": "4",
+		"nev": "diak4",
+		"email": "email",
+		"osztaly_id": "4"
 	  },
 	  {
-		"id": ",5,",
-		"nev": "diak5,",
-		"email": ",{email},",
-		"osztaly_id": ",{number},"
+		"id": "5",
+		"nev": "diak5",
+		"email": "email",
+		"osztaly_id": "5"
 	  }
 	]
 ]
